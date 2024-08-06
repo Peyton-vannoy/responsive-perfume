@@ -20,3 +20,16 @@ Users should be able to:
 
 - Solution URL: [Add solution URL here](https://your-solution-url.com)
 - Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+
+## My process
+
+### Built with
+
+- HTML 5
+- CSS 3
+- Flexbox
+- Meda Queries
+
+### What I learned
+
+I learned how to work with media queries in CSS. Theres a lot of room for improvement here, and i look forward to coming back to it.
