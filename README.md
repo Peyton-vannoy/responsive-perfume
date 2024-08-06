@@ -18,7 +18,7 @@ Users should be able to:
 
 ## Links
 
-- Live Site URL: [](https://peyton-vannoy.github.io/responsive-perfume/)
+- Live Site URL: [Responsive Perfume](https://peyton-vannoy.github.io/responsive-perfume/)
 
 ## My process
 
